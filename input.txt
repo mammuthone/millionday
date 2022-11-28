@@ -1,0 +1,3 @@
+ciao messaggio di prova
+vediamo quante righe legge oppure quanti byte oppure se semplicemente c'è un limite
+e di che tipo si tratta
